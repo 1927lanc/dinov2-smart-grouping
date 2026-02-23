@@ -1,4 +1,4 @@
-@"
+
 
 \# 🎨 DINOv2 Smart Grouping - AI Visual Clustering Dashboard
 
@@ -187,7 +187,9 @@ MIT License - see LICENSE file
 \- GitHub: \[@yourusername](https://github.com/yourusername)
 
 \- Email: your.email@example.com
+## 👥 Team Workflow
 
+This update is submitted via pull request to demonstrate collaborative development workflow.
 
 
 ---
