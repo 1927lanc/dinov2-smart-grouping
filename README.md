@@ -1,6 +1,6 @@
-@"
 
-\# 🎨 DINOv2 Smart Grouping - AI Visual Clustering Dashboard
+
+ 🎨 DINOv2 Smart Grouping - AI Visual Clustering Dashboard
 
 
 
@@ -182,11 +182,11 @@ MIT License - see LICENSE file
 
 
 
-\*\*Created by:\*\* \[Your Name]
+\*\*Created by:\*\* \[Lancy Mariyal J]
 
-\- GitHub: \[@yourusername](https://github.com/yourusername)
+\- GitHub: \[@1927lanc](https://github.com/ 1927lanc)
 
-\- Email: your.email@example.com
+\- Email:  1927lanc@gmail.com
 
 
 
